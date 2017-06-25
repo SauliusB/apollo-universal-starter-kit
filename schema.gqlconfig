@@ -1,5 +1,5 @@
 {
   schema: {
-    files: ['./src/**/*.graphql','./src/server/**/*.graphql','src/server/**/*.graphql']
+    files: ['src/**/*.graphql']
   }
 }
