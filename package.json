@@ -84,6 +84,7 @@
     "subscriptions-transport-ws": "^0.7.3"
   },
   "devDependencies": {
+    "@playlyfe/gql": "^2.3.1",
     "babel-cli": "^6.24.1",
     "babel-core": "^6.25.0",
     "babel-eslint": "^7.2.3",
